@@ -1,0 +1,161 @@
+{
+  "products": [
+    {
+      "_id": "dress1",
+      "image": "https://andshop-reactjs.netlify.app/static/media/product2.57e4309e.png",
+      "title": "cami maxi dress in polka dot",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+      "availableSizes": ["XL"],
+      "price": 285.9,
+      "category": "Woman"
+    },
+    {
+      "_id": "dress2",
+      "image": "https://andshop-reactjs.netlify.app/static/media/product3.1d2f5e96.png",
+      "title": "Frill mini dress in yellow polka dot",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+      "availableSizes": ["X", "L", "XL"],
+      "price": 180.9,
+      "category": "Woman"
+    },
+    {
+      "_id": "dress3",
+      "image": "https://andshop-reactjs.netlify.app/static/media/product13.3a4fd8ad.png",
+      "title": "Midi tea dress in blue and red spot",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+      "availableSizes": ["XL", "XXL"],
+      "price": 149.9,
+      "category": "Woman"
+    },
+    {
+      "_id": "dress4",
+      "image": "https://andshop-reactjs.netlify.app/static/media/post2.674c2953.png",
+      "title": "Midi tea dress in blue and red spot",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+      "availableSizes": ["XL", "XXL"],
+      "price": 149.9,
+      "category": "Woman"
+    },
+    {
+      "_id": "Pad",
+      "image": "https://andshop-reactjs.netlify.app/static/media/7.4f214ac7.jpg",
+      "title": "Midi tea dress in blue and red spot",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+
+      "price": 149.9,
+      "category": "Electric"
+    },
+    {
+      "_id": "Headphone",
+      "image": "https://andshop-reactjs.netlify.app/static/media/6.15c9ff1f.jpg",
+      "title": "Midi tea dress in blue and red spot",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+
+      "price": 149.9,
+      "category": "Electric"
+    },
+    {
+      "_id": "Pad",
+      "image": "https://andshop-reactjs.netlify.app/static/media/9.063f1f34.jpg",
+      "title": "Midi tea dress in blue and red spot",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+
+      "price": 149.9,
+      "category": "Electric"
+    },
+    {
+      "_id": "Headphone",
+      "image": "https://andshop-reactjs.netlify.app/static/media/8.400247eb.jpg",
+      "title": "Midi tea dress in blue and red spot",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+
+      "price": 149.9,
+      "category": "Electric"
+    },
+    {
+      "_id": "post1",
+      "image": "https://andshop-reactjs.netlify.app/static/media/post1.9424ebbc.png",
+      "title": "24 February 2021",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+
+      "category": "blog"
+    },
+
+    {
+      "_id": "post1",
+      "image": "https://andshop-reactjs.netlify.app/static/media/post4.debac102.png",
+      "title": "24 February 2021",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+
+      "category": "blog"
+    },
+    {
+      "_id": "post1",
+      "image": "https://andshop-reactjs.netlify.app/static/media/post6.53354241.png",
+      "title": "24 February 2021",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+
+      "category": "blog"
+    },
+    {
+      "_id": "post1",
+      "image": "https://andshop-reactjs.netlify.app/static/media/post7.1ddb8943.png",
+      "title": "24 February 2021",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+
+      "category": "blog"
+    },
+
+    {
+      "_id": "post1",
+      "image": "https://andshop-reactjs.netlify.app/static/media/post1.9424ebbc.png",
+      "title": "24 February 2021",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+      "availableSizes": ["XL"],
+      "price": 285.9,
+      "category": "blog"
+    },
+
+    {
+      "_id": "post1",
+      "image": "https://andshop-reactjs.netlify.app/static/media/team1.2bfac19d.png",
+
+      "name": "Ms. Sandela",
+
+      "title": "CEO",
+
+      "category": "Expert"
+    },
+    {
+      "_id": "post1",
+      "image": "https://andshop-reactjs.netlify.app/static/media/team2.16d0ce15.png",
+
+      "name": "Mr. Heroas",
+
+      "title": "Head of Marketing",
+
+      "category": "Expert"
+    },
+    {
+      "_id": "post1",
+      "image": "https://andshop-reactjs.netlify.app/static/media/team3.16987d56.png",
+
+      "name": "Ms. Valona",
+
+      "title": "Manager",
+
+      "category": "Expert"
+    },
+
+    {
+      "_id": "post1",
+      "image": "https://andshop-reactjs.netlify.app/static/media/team4.faeb98ce.png",
+
+      "name": "Ms. Raka",
+
+      "title": "Admin",
+
+      "category": "Expert"
+    }
+  ]
+}
