@@ -180,7 +180,7 @@ const Nav = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="/vendor-dashboard">Vendor</a>
+                  <a href="/vendor">Vendor</a>
                 </li>
                 <li>
                   <a href="/my-account">My Account</a>

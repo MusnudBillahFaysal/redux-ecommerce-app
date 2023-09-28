@@ -300,7 +300,7 @@ const Home = () => {
       </section>
       <section className="bg-gray-100 py-8">
         <main className="container mx-auto py-4">
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-1 gap-4">
             {/* Filter and render Electric category items here */}
             {products
               .filter((product) => product.category !== 'Electric')

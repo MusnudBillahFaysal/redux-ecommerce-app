@@ -159,7 +159,7 @@ const Feature = () => {
       </section>
       <section className="bg-gray-100 py-8">
         <main className="container mx-auto py-4">
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-1 gap-4">
             {/* Render your items here */}
             {/* <div className="bg-white p-4 rounded-lg shadow">
               <Products products={products} addToCart={addToCart} />
@@ -210,7 +210,7 @@ const Feature = () => {
       </section>
       <section className="bg-gray-100 py-8">
         <main className="container mx-auto py-4">
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-1 gap-4">
             {/* Filter and render Electric category items here */}
             {products
               .filter((product) => product.category === 'Electric')
